@@ -1,0 +1,189 @@
+{
+  "country": "BEN",
+  "file": "BEN_2023_EFF_ECF_Review2_Standalone_Post_Combined_2.pdf",
+  "status": "ok",
+  "elapsed_s": 75.2,
+  "toc": [
+    {
+      "category": "Box",
+      "title": "1. Recent Tax Performance and Next Steps in Domestic Revenue Mobilization",
+      "page": 16
+    },
+    {
+      "category": "Box",
+      "title": "2. Key Findings of the IMF Governance Diagnostic",
+      "page": 21
+    },
+    {
+      "category": "Annex",
+      "title": "I. Risk Assessment Matrix",
+      "page": 41
+    },
+    {
+      "category": "Annex",
+      "title": "II. Poverty Reduction and Growth Strategy",
+      "page": 42
+    },
+    {
+      "category": "Annex",
+      "title": "III. Recent Initiatives to Promote Gender Equity",
+      "page": 44
+    },
+    {
+      "category": "Annex",
+      "title": "IV. Addressing Vulnerability to Climate Change",
+      "page": 46
+    },
+    {
+      "category": "Annex",
+      "title": "V. Food Insecurity in Benin: Tackling Structural Challenges in Agriculture",
+      "page": 47
+    }
+  ],
+  "benchmarks": [
+    {
+      "table_title": "Table 11. Benin: Structural Benchmarks, 2023-24",
+      "page_num": 61,
+      "columns": [
+        "Due date",
+        "Status",
+        "Reform Area"
+      ],
+      "rows": {
+        "Conduct and publish a governance diagnostic.": {
+          "Due date": "End-February 2023",
+          "Status": "Met",
+          "Reform Area": "Governance and Transparency"
+        },
+        "Transpose the WAEMU's regional financial inclusion strategy (adopted by the WAEMU Council of Ministers in 2016) at the national level and design a comprehensive financial inclusion strategy for Benin.": {
+          "Due date": "End-March 2023",
+          "Status": "Met",
+          "Reform Area": "Financial Inclusion"
+        },
+        "Submit to parliament a draft law to improve the organization and governance of the school feeding program (PNASI), covering the following aspects: (i) a sustainable financing strategy which includes the sharing of responsibilities between the central government, municipalities, and schools; (ii) a prioritization of coverage of the regions most susceptible to food insecurity risks; (iii) the adaptation and clarification of standards required for the delivery of food products to school canteens in order to promote the participation of local farmers; and (iv) gradually transferring the management of the PNASI to the Beninese authorities through the establishment of the National Institution in charge of school feeding.": {
+          "Due date": "End-April 2023",
+          "Status": "Met",
+          "Reform Area": "Food security"
+        },
+        "Digitalize the processing of land titles requests, including through designing the land management application ( e-terre ) and developing its functionalities, providing training to ANDF ( Agence Nationale du Domaine et du Foncier) staff on the use of the new system and embedding data management tools to the new application. Met": {
+          "Due date": "End-April 2023",
+          "Status": null,
+          "Reform Area": "Land titling"
+        },
+        "Develop a medium-term strategy (MTRS).": {
+          "Due date": "End-September 2023",
+          "Status": null,
+          "Reform Area": "Revenue Mobilization"
+        },
+        "Prepare a statement containing a quantitative analysis of fiscal risks in all key areas, including macroeconomic risks, public enterprises, debt management, contingent liabilities, natural disasters, pension and social securities, as part of the 2024 draft budget law documentation.": {
+          "Due date": "End-October 2023",
+          "Status": null,
+          "Reform Area": "Public Financial Management"
+        }
+      }
+    },
+    {
+      "table_title": "Table 11. Benin: Structural Benchmarks, 2023-24 (concluded)",
+      "page_num": 62,
+      "columns": [
+        "Due date",
+        "Status",
+        "Reform Area"
+      ],
+      "rows": {
+        "Publish all the criteria for the appraisal and selection of major investment projects, along with feasibility studies.": {
+          "Due date": "End-December 2023",
+          "Status": null,
+          "Reform Area": "Public Financial Management"
+        },
+        "Operationalize the Commercial Court of Appeal with staffing, funding, and equipment to help fill an important gap in Benin's judicial framework and promote greater transparency.": {
+          "Due date": "End-November 2023",
+          "Status": "Newly proposed",
+          "Reform Area": "Rule of law"
+        },
+        "Operationalize the HCPC ( Haut Commissariat à la Prévention de la Corruption ) and strengthen its legal framework to ensure its independence and powers, in consultation with IMF staff": {
+          "Due date": "End-June 2024",
+          "Status": "Newly proposed",
+          "Reform Area": "Anti-corruption"
+        },
+        "Update the list of bank accounts of public organizations before the end of August 2023 and close at least half of those subject to the obligation to deposit funds in the Treasury and not benefiting from an exemption authorization from the MEF, while repatriating the balances to the public Treasury, no later than the end of June 2024": {
+          "Due date": "End-June 2024",
+          "Status": "Newly proposed",
+          "Reform Area": "Public Financial Management"
+        }
+      }
+    },
+    {
+      "table_title": "Table 2. Benin: Structural Benchmarks for 2023-24",
+      "page_num": 101,
+      "columns": [
+        "Due date",
+        "Status",
+        "Reform Area"
+      ],
+      "rows": {
+        "Conduct and publish a governance diagnostic.": {
+          "Due date": "End-February 2023",
+          "Status": "Met",
+          "Reform Area": "Governance and Transparency"
+        },
+        "Transpose the WAEMU's regional financial inclusion strategy (adopted by the WAEMU Council of Ministers in 2016) at the national level and design a comprehensive financial inclusion strategy for Benin.": {
+          "Due date": "End-March 2023",
+          "Status": "Met",
+          "Reform Area": "Financial Inclusion"
+        },
+        "Submit to parliament a draft law to improve the and governance of the school End-April 2023 organization": {
+          "Due date": null,
+          "Status": "Met",
+          "Reform Area": "Food security"
+        },
+        "Digitalize the processing of land titles requests, including through designing the land management application ( e-terre ) and developing its functionalities, providing training to ANDF ( Agence Nationale du Domaine et du Foncier) staff on the use of the new system and embedding data management tools to the new application.": {
+          "Due date": "End-April 2023",
+          "Status": "Met",
+          "Reform Area": "Land titling"
+        },
+        "Develop a medium-term revenue mobilization strategy (MTRS).": {
+          "Due date": "End-September 2023",
+          "Status": null,
+          "Reform Area": "Revenue Mobilization"
+        },
+        "Prepare a statement containing a quantitative analysis of fiscal risks in all key areas, including macroeconomic risks, public enterprises, debt management, contingent liabilities, natural disasters, pension and social securities, as part of the 2024 draft budget law documentation.": {
+          "Due date": "End-October 2023",
+          "Status": null,
+          "Reform Area": "Public Financial Management"
+        }
+      }
+    },
+    {
+      "table_title": "Table 2. Benin: Structural Benchmarks for 2023-24 (concluded)",
+      "page_num": 101,
+      "columns": [
+        "Due date",
+        "Status",
+        "Reform Area"
+      ],
+      "rows": {
+        "Publish all the criteria for the appraisal and selection of major investment projects, along with feasibility studies.": {
+          "Due date": "End-December 2023",
+          "Status": null,
+          "Reform Area": "Public Financial Management"
+        },
+        "Operationalize the Commercial Court of Appeal with staffing, funding, and equipment to help fill an important gap in Benin's judicial framework and promote greater transparency. End- November 2023 Rule": {
+          "Due date": null,
+          "Status": "Newly proposed",
+          "Reform Area": "Rule of law"
+        },
+        "Operationalize the HCPC ( Haut Commissariat à la Prévention de la Corruption ) and strengthen its legal framework to ensure its independence and powers, in": {
+          "Due date": "End-June 2024",
+          "Status": "Newly proposed",
+          "Reform Area": "Anti-corruption"
+        },
+        "Update the list of bank accounts of public organizations before the end of August 2023 and close at least half of those subject to the obligation to deposit funds in the Treasury and not benefiting from an exemption authorization from the MEF, while repatriating the balances to the public Treasury, no later than the end of June 2024": {
+          "Due date": "End-June 2024",
+          "Status": "Newly proposed",
+          "Reform Area": "Public Financial Management"
+        }
+      }
+    }
+  ]
+}

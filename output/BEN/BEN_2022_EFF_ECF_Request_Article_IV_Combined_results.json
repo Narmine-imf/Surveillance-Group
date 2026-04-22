@@ -1,0 +1,119 @@
+{
+  "country": "BEN",
+  "file": "BEN_2022_EFF_ECF_Request_Article_IV_Combined.pdf",
+  "status": "ok",
+  "elapsed_s": 56.7,
+  "toc": [
+    {
+      "category": "Box",
+      "title": "1. Use of SDR Allocation",
+      "page": 15
+    },
+    {
+      "category": "Box",
+      "title": "2. Estimating Benin’s Potential Growth",
+      "page": 17
+    },
+    {
+      "category": "Box",
+      "title": "3. The Authorities’ Civilian Approach to Security Risks",
+      "page": 20
+    },
+    {
+      "category": "Box",
+      "title": "4. Partial Passthrough and Fuel Subsidies Associated with the War in Ukraine",
+      "page": 25
+    },
+    {
+      "category": "Annex",
+      "title": "I. Staff Assessment of High Combined Credit Exposure (HCCE) Criteria",
+      "page": 55
+    },
+    {
+      "category": "Annex",
+      "title": "II. Status of Implementation of Key Recommendations from 2019 Article IV Consultations",
+      "page": 56
+    },
+    {
+      "category": "Annex",
+      "title": "III. Risk Assessment Matrix (RAM)",
+      "page": 58
+    },
+    {
+      "category": "Annex",
+      "title": "IV. External Sector Assessment",
+      "page": 59
+    },
+    {
+      "category": "Annex",
+      "title": "V. The Interest-to-Tax Revenue Ratio as a Guide for Fiscal Policy",
+      "page": 64
+    },
+    {
+      "category": "Annex",
+      "title": "VI. Benin’s Access to Capital Markets: Opportunities and Risks",
+      "page": 66
+    },
+    {
+      "category": "Annex",
+      "title": "VII. Scaling Up Benin’s Social Safety Nets",
+      "page": 73
+    },
+    {
+      "category": "Annex",
+      "title": "VIII. Vulnerability to Climate Change and National Strategy",
+      "page": 78
+    },
+    {
+      "category": "Annex",
+      "title": "IX. Capacity Building and Technical Assistance Framework",
+      "page": 81
+    }
+  ],
+  "benchmarks": [
+    {
+      "table_title": "Table 11b. Benin: Structural Benchmarks, 2022-23",
+      "page_num": 98,
+      "columns": [
+        "Table 11b. Benin: Structural Benchmarks, 2022-23.Structural benchmark",
+        "Table 11b. Benin: Structural Benchmarks, 2022-23.Due date"
+      ],
+      "rows": {
+        "Governance and Transparency": {
+          "Table 11b. Benin: Structural Benchmarks, 2022-23.Structural benchmark": "Conduct and publish a governance diagnostic.",
+          "Table 11b. Benin: Structural Benchmarks, 2022-23.Due date": "End-February 2023"
+        },
+        "AML/CFT": {
+          "Table 11b. Benin: Structural Benchmarks, 2022-23.Structural benchmark": "Adoption by the Council of Ministers of (i) a Ministerial Decree designating the National Committee for the Coordination of Activities in the Area of AML/CFT (CNCA) as the AML/CFT supervisor for designated non-financial businesses and professions (DNFBPs) and setting out its powers and responsibilities to undertake risk- based supervision of the sector in line with FATF Recommendation 28; (ii) Ministerial decree to implement a targeted financial sanctions regime to comply with relevant United Nations Security Council resolutions related to terrorism and terrorism financing and proliferation financing in line with the recommendations (6 and 7) of the FATF and empowering the Consultative Committee on Administrative Freezing (CCGA) to effectively implement this regime.",
+          "Table 11b. Benin: Structural Benchmarks, 2022-23.Due date": "End-June 2022"
+        },
+        "Revenue Mobilization": {
+          "Table 11b. Benin: Structural Benchmarks, 2022-23.Structural benchmark": "Develop a medium-term revenue mobilization strategy (MTRS).",
+          "Table 11b. Benin: Structural Benchmarks, 2022-23.Due date": "End-September 2023"
+        }
+      }
+    },
+    {
+      "table_title": "Table 11b. Benin: Structural Benchmarks (2022 - 23) Concluded",
+      "page_num": 100,
+      "columns": [
+        "Table 11b. Benin: Structural Benchmarks (2022 - 23) Concluded.Structural benchmark",
+        "Table 11b. Benin: Structural Benchmarks (2022 - 23) Concluded.Due date"
+      ],
+      "rows": {
+        "Social Safety Nets": {
+          "Table 11b. Benin: Structural Benchmarks (2022 - 23) Concluded.Structural benchmark": "F inalize the community validations of vulnerable households identified through the first cycle of proxy-mean test surveys (mass registration) in at least 70 of the 77 communes; and publish social registry results at the commune level on an easily accessibly government website.",
+          "Table 11b. Benin: Structural Benchmarks (2022 - 23) Concluded.Due date": "End-July 2022"
+        },
+        "Public Financial Management": {
+          "Table 11b. Benin: Structural Benchmarks (2022 - 23) Concluded.Structural benchmark": "Prepare a statement containing a quantitative analysis of fiscal risks in all key areas, including macroeconomic risks, public enterprises, debt management, contingent liabilities, natural disasters, pension and social securities, as part of the 2024 draft budget law documentation.",
+          "Table 11b. Benin: Structural Benchmarks (2022 - 23) Concluded.Due date": "End-October 2023"
+        },
+        "Financial Inclusion": {
+          "Table 11b. Benin: Structural Benchmarks (2022 - 23) Concluded.Structural benchmark": "Transpose the WAEMU's regional financial inclusion strategy (adopted by the WAEMU Council of Ministers in 2016) at the national level and design a comprehensive financial inclusion strategy for Benin.",
+          "Table 11b. Benin: Structural Benchmarks (2022 - 23) Concluded.Due date": "End-March 2023"
+        }
+      }
+    }
+  ]
+}

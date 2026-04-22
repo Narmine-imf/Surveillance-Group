@@ -1,0 +1,117 @@
+{
+  "country": "BEN",
+  "file": "BEN_2025_EFF_ECF_Review6_Standalone_Post_Combined_2.pdf",
+  "status": "ok",
+  "elapsed_s": 65.3,
+  "toc": [
+    {
+      "category": "Box",
+      "title": "1. Benin's Recent External Borrowing Operations",
+      "page": 10
+    },
+    {
+      "category": "Box",
+      "title": "2. Official Development Assistance Flows",
+      "page": 18
+    },
+    {
+      "category": "Annex",
+      "title": "I. External Sector Assessment",
+      "page": 49
+    },
+    {
+      "category": "Annex",
+      "title": "II. Risk Assessment Matrix (RAM)",
+      "page": 53
+    },
+    {
+      "category": "Annex",
+      "title": "III. Rebasing of the Harmonized Consumer Price Index",
+      "page": 54
+    }
+  ],
+  "benchmarks": [
+    {
+      "table_title": "SB table (vision, p.43)",
+      "page_num": 43,
+      "columns": [
+        "Due date",
+        "Status",
+        "Reform Area"
+      ],
+      "rows": {
+        "Publish the audit reports of three high-stake public contracts executed during 2022-24.": {
+          "Due date": "End-June 2025",
+          "Status": "On track",
+          "Reform Area": "Transparency"
+        },
+        "Publish annually the list of companies operating in the industrial zone, specifying the tax regime granted and the related benefits along with the volume of potential investment expected": {
+          "Due date": "End-April 2025",
+          "Status": "Met",
+          "Reform Area": "Transparency"
+        },
+        "Publish in their respective websites the financial statements for the period 2022 to 2024 of the electricity production and distribution companies (SBPE and SBEE), the water company SONEB, and the Port of Cotonou (PAC).": {
+          "Due date": "End-October 2025",
+          "Status": "Newly proposed SB",
+          "Reform Area": "Transparency"
+        },
+        "Extend the online land registry (e-cadaster) to completely cover the city of Cotonou, and systematically update land transactions in the e-cadaster": {
+          "Due date": "End-April 2025",
+          "Status": "Met",
+          "Reform Area": "Business climate"
+        },
+        "Create and operationalize a single electronic window to promote investment and accelerate export facilitation, including by providing approval under the investment code and export support for small and medium-size enterprises.": {
+          "Due date": "End-February 2025",
+          "Status": "Met",
+          "Reform Area": "Business climate"
+        },
+        "In line with the government's highly social mandate, develop and publish on the website of the Ministry in charge of Social Affairs a mapping of social protection programs, identifying the main vulnerabilities addressed by each program and beneficiaries, and including a quantification of coverage gaps and overlaps, and the associated policy and financing implications.": {
+          "Due date": "End-October 2025",
+          "Status": "On track",
+          "Reform Area": "Social policies"
+        }
+      }
+    },
+    {
+      "table_title": "SB table (vision, p.71)",
+      "page_num": 71,
+      "columns": [
+        "Due date",
+        "Status",
+        "Reform Area"
+      ],
+      "rows": {
+        "Publish the audit reports of three high-stake public contracts executed during 2022-24.": {
+          "Due date": "End-June 2025",
+          "Status": "On track",
+          "Reform Area": "Transparency"
+        },
+        "Publish annually the list of companies operating in the industrial zone, specifying the tax regime granted and the related benefits along with the volume of potential investment expected": {
+          "Due date": "End-April 2025",
+          "Status": "Met",
+          "Reform Area": "Transparency"
+        },
+        "Publish in their respective websites the financial statements for the period 2022 to 2024 of the electricity production and distribution companies (SBPE and SBEE), the water company SONEB, and the Port of Cotonou (PAC).": {
+          "Due date": "End-October 2025",
+          "Status": "Newly proposed SB",
+          "Reform Area": "Transparency"
+        },
+        "Extend the online land registry (e-cadastre) to completely cover the city of Cotonou, and systematically update land transactions in the e-cadastre": {
+          "Due date": "End-April 2025",
+          "Status": "Met",
+          "Reform Area": "Business climate"
+        },
+        "Create and operationalize a single electronic window to promote investment and accelerate export facilitation, including by providing approval under the investment code and export support for small and medium-size enterprises.": {
+          "Due date": "End-February 2025",
+          "Status": "Met",
+          "Reform Area": "Business climate"
+        },
+        "In line with the government's highly social mandate, develop and publish on the website of the Ministry in charge of Social Affairs a mapping of social protection programs, identifying the main vulnerabilities addressed by each program and beneficiaries, and including a quantification of coverage gaps and overlaps, and the associated policy and financing implications.": {
+          "Due date": "End-October 2025",
+          "Status": "On track",
+          "Reform Area": "Social policies"
+        }
+      }
+    }
+  ]
+}

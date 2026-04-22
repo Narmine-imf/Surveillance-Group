@@ -1,0 +1,157 @@
+{
+  "country": "BEN",
+  "file": "BEN_2023_EFF_ECF_Review3_Standalone_Pre_Combined.pdf",
+  "status": "ok",
+  "elapsed_s": 62.6,
+  "toc": [
+    {
+      "category": "Box",
+      "title": "1. The Medium-Term Revenue Strategy (MTRS)",
+      "page": 17
+    },
+    {
+      "category": "Box",
+      "title": "2. Climate Risks to Food Security in Benin",
+      "page": 19
+    },
+    {
+      "category": "Box",
+      "title": "3. Implications for Benin of the Phase out of Fuel Subsidy in Nigeria",
+      "page": 21
+    },
+    {
+      "category": "Box",
+      "title": "4. The Cost of Climate Inaction",
+      "page": 24
+    },
+    {
+      "category": "Box",
+      "title": "5. Mobilizing Private Climate Finance",
+      "page": 28
+    },
+    {
+      "category": "Annex",
+      "title": "I. External Sector Assessment",
+      "page": 58
+    },
+    {
+      "category": "Annex",
+      "title": "II. Risk Assessment Matrix (RAM)",
+      "page": 62
+    },
+    {
+      "category": "Annex",
+      "title": "III. Building Resilience to Climate Change",
+      "page": 63
+    },
+    {
+      "category": "Annex",
+      "title": "IV. Policy lessons from DIGNAD Simulations",
+      "page": 77
+    }
+  ],
+  "benchmarks": [
+    {
+      "table_title": "Table 12. Benin: Remaining Structural Benchmarks Under the Current EFF/ECF Arrangement, 2023-24",
+      "page_num": 152,
+      "columns": [
+        "Due date",
+        "Status",
+        "Reform Area"
+      ],
+      "rows": {
+        "Develop a medium-term revenue strategy (MTRS).": {
+          "Due date": "End-September 2023",
+          "Status": "Met",
+          "Reform Area": "Revenue Mobilization"
+        },
+        "Prepare a statement containing a quantitative analysis of fiscal risks in all key areas, including macroeconomic risks, public enterprises, debt management, contingent liabilities, natural disasters, pension and social securities, as part of the 2024 draft budget law documentation.": {
+          "Due date": "End-October 2023",
+          "Status": "Met",
+          "Reform Area": "Public Financial Management"
+        },
+        "Publish all the criteria for the appraisal and selection of major investment projects, along with feasibility studies. On track": {
+          "Due date": "End-December 2023",
+          "Status": null,
+          "Reform Area": "Public Financial Management"
+        },
+        "Operationalize the Commercial Court of Appeal with staffing, funding, and equipment to help fill an important gap in Benin's judicial framework and promote greater transparency.": {
+          "Due date": "End-November 2023",
+          "Status": "Met",
+          "Reform Area": "Rule of law"
+        },
+        "Operationalize the HCPC ( Haut Commissariat à la Prévention de la Corruption ) and strengthen its legal framework to ensure its independence and powers, in consultation with IMF staff On track": {
+          "Due date": "End-June 2024",
+          "Status": null,
+          "Reform Area": "Anti-corruption"
+        },
+        "Update the list of bank accounts of public organizations before least half of those subject to the obligation to deposit funds an exemption authorization from the MEF, while repatriating later than the end of June 2024 the end of August 2023 and close at in the Treasury and not benefiting from the balances to the public Treasury, no End-June 2024 On track": {
+          "Due date": null,
+          "Status": null,
+          "Reform Area": "Public Financial Management"
+        },
+        "Establish a legal framework which requires the collection and verification of beneficial ownership information of landholders at the time of transfer of land and the publication of this beneficial ownership information on a government website AML-CFT": {
+          "Due date": "End-April 2024",
+          "Status": "Newly proposed",
+          "Reform Area": ""
+        },
+        "Establish and operationalize a committee within the audit court to monitor implementation of its audit recommendations Transparency": {
+          "Due date": "End-February 2024",
+          "Status": "Newly proposed",
+          "Reform Area": ""
+        },
+        "Extend the online land registry (e-cadaster) to completely cover the city of Cotonou, and systematically update land transactions in the e-cadaster Business climate": {
+          "Due date": "End-April 2025",
+          "Status": "Newly proposed",
+          "Reform Area": ""
+        }
+      }
+    },
+    {
+      "table_title": "Table 2. Benin: Remaining Structural Benchmarks Under the Current EFF/ECF Arrangement, 2023-24",
+      "page_num": 152,
+      "columns": [
+        "Due date",
+        "Status",
+        "Reform Area"
+      ],
+      "rows": {
+        "Develop a medium-term revenue strategy (MTRS).": {
+          "Due date": "End-September 2023",
+          "Status": "Met",
+          "Reform Area": "Revenue Mobilization"
+        },
+        "Update the list of bank accounts of public organizations before the end of August 2023 and close at least half of those subject to the obligation to deposit funds in the Treasury and not benefiting from an exemption authorization from the MEF, while repatriating the balances to the public Treasury, no later than the end of June 2024 On track": {
+          "Due date": "End-June 2024",
+          "Status": null,
+          "Reform Area": "Public Financial Management"
+        },
+        "Operationalize the Commercial Court of Appeal with staffing, funding, and equipment to help fill an important gap in Benin's judicial framework and promote greater transparency.": {
+          "Due date": "End-November 2023",
+          "Status": "Met",
+          "Reform Area": "Rule of law"
+        },
+        "Operationalize the HCPC ( Haut Commissariat à la Prévention de la Corruption ) and strengthen its legal framework to ensure its independence and powers, in consultation with IMF staff On track": {
+          "Due date": "End-June 2024",
+          "Status": null,
+          "Reform Area": "Anti-corruption"
+        },
+        "Establish a legal framework which requires the collection and verification of beneficial ownership information of landholders at the time of transfer of land and the publication of this beneficial ownership information on a government website AML-CFT": {
+          "Due date": "End-April 2024",
+          "Status": "Newly proposed",
+          "Reform Area": ""
+        },
+        "Establish and operationalize a committee within the audit court to monitor implementation of its audit recommendations Transparency": {
+          "Due date": "End-February 2024",
+          "Status": "Newly proposed",
+          "Reform Area": ""
+        },
+        "Extend the online land registry (e-cadaster) to completely cover the city of Cotonou, and systematically update land transactions in the e-cadaster Business climate": {
+          "Due date": "End-April 2025",
+          "Status": "Newly proposed",
+          "Reform Area": ""
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "country": "BEN",
+  "file": "BEN_2024_EFF_ECF_Review4_Article_IV_Combined.pdf",
+  "status": "ok",
+  "elapsed_s": 99.7,
+  "toc": [
+    {
+      "category": "Box",
+      "title": "1. Eurobond Issuance and Liability Management Operations (LMOs)",
+      "page": 23
+    },
+    {
+      "category": "Box",
+      "title": "2. AML/CFT Framework",
+      "page": 29
+    },
+    {
+      "category": "Box",
+      "title": "3. Fuel Subsidies",
+      "page": 31
+    },
+    {
+      "category": "Annex",
+      "title": "I. External Sector Assessment",
+      "page": 58
+    },
+    {
+      "category": "Annex",
+      "title": "II. Risk Assessment Matrix",
+      "page": 61
+    },
+    {
+      "category": "Annex",
+      "title": "III. Data Issues",
+      "page": 62
+    },
+    {
+      "category": "Annex",
+      "title": "IV. Capacity Development Strategy",
+      "page": 65
+    },
+    {
+      "category": "Annex",
+      "title": "V. Recent Developments in Public Financial Institutions",
+      "page": 68
+    },
+    {
+      "category": "Annex",
+      "title": "VI. Status of Implementation of Key Recommendations from 2022 Article IV Consultation",
+      "page": 72
+    },
+    {
+      "category": "Annex",
+      "title": "VII. Stock Take on Reform Bundling and Sequencing",
+      "page": 74
+    }
+  ],
+  "benchmarks": [
+    {
+      "table_title": "SB table (vision, p.54)",
+      "page_num": 54,
+      "columns": [
+        "Due date",
+        "Status",
+        "Reform Area"
+      ],
+      "rows": {
+        "Publish all the criteria for the appraisal and selection of major investment projects, along with feasibility studies.": {
+          "Due date": "End-December 2023",
+          "Status": "Met",
+          "Reform Area": "Public Financial Management"
+        },
+        "Establish and operationalize a committee within the audit court to monitor implementation of its audit recommendations": {
+          "Due date": "End-February 2024",
+          "Status": "Met",
+          "Reform Area": "Transparency"
+        },
+        "Publish the audit reports of three high-stake public contracts executed during 2022-24.": {
+          "Due date": "End-June 2025",
+          "Status": "Newly proposed SB",
+          "Reform Area": "Transparency"
+        },
+        "Establish a legal framework which requires the collection and verification of beneficial ownership information of landholders at the time of transfer of land and the publication of this beneficial ownership information on a government website": {
+          "Due date": "End-April 2024",
+          "Status": "Met",
+          "Reform Area": "AML-CFT"
+        },
+        "Operationalize the HCPC (Haut Commissariat à la Prévention de la Corruption) and strengthen its legal framework to ensure its independence and powers, in consultation with IMF staff": {
+          "Due date": "End-June 2024",
+          "Status": "On track",
+          "Reform Area": "Anti-corruption"
+        },
+        "Update the list of bank accounts of public organizations before the end of August 2023 and close at least half of those subject to the obligation to deposit funds in the Treasury and not benefiting from an exemption authorization from the MEF, while repatriating the balances to the public Treasury, no later than the end of June 2024": {
+          "Due date": "End-June 2024",
+          "Status": "On track",
+          "Reform Area": "Public Financial Management"
+        },
+        "Extend the online land registry (e-cadastre) to completely cover the city of Cotonou, and systematically update land transactions in the e-cadaster": {
+          "Due date": "End-April 2025",
+          "Status": null,
+          "Reform Area": "Business climate"
+        },
+        "Create and operationalize a single electronic window to promote investment and accelerate export facilitation, including by providing approval under the investment code and export support for small and medium-size enterprises.": {
+          "Due date": "End-February 2025",
+          "Status": "Newly proposed SB",
+          "Reform Area": "Business climate"
+        }
+      }
+    },
+    {
+      "table_title": "SB table (vision, p.97)",
+      "page_num": 97,
+      "columns": [
+        "Due date",
+        "Status",
+        "Reform Area"
+      ],
+      "rows": {
+        "Publish all the criteria for the appraisal and selection of major investment projects, along with feasibility studies.": {
+          "Due date": "End-December 2023",
+          "Status": "Met",
+          "Reform Area": "Public Financial Management"
+        },
+        "Establish and operationalize a committee within the audit court to monitor implementation of its audit recommendations": {
+          "Due date": "End-February 2024",
+          "Status": "Met",
+          "Reform Area": "Transparency"
+        },
+        "Publish the audit reports of three high-stake public contracts executed during 2022-24.": {
+          "Due date": "End-June 2025",
+          "Status": "Newly proposed SB",
+          "Reform Area": "Transparency"
+        },
+        "Establish a legal framework which requires the collection and verification of beneficial ownership information of landholders at the time of transfer of land and the publication of this beneficial ownership information on a government website": {
+          "Due date": "End-April 2024",
+          "Status": "Met",
+          "Reform Area": "AML-CFT"
+        },
+        "Operationalize the HCPC (Haut Commissariat à la Prévention de la Corruption) and strengthen its legal framework to ensure its independence and powers, in consultation with IMF staff": {
+          "Due date": "End-June 2024",
+          "Status": "On track",
+          "Reform Area": "Anti-corruption"
+        },
+        "Update the list of bank accounts of public organizations before the end of August 2023 and close at least half of those subject to the obligation to deposit funds in the Treasury and not benefiting from an exemption authorization from the MEF, while repatriating the balances to the public Treasury, no later than the end of June 2024": {
+          "Due date": "End-June 2024",
+          "Status": "On track",
+          "Reform Area": "Public Financial Management"
+        },
+        "Extend the online land registry (e-cadaster) to completely cover the city of Cotonou, and systematically update land transactions in the e-cadaster": {
+          "Due date": "End-April 2025",
+          "Status": null,
+          "Reform Area": "Business climate"
+        },
+        "Create and operationalize a single electronic window to promote investment and accelerate export facilitation, including by providing approval under the investment code and export support for small and medium-size enterprises.": {
+          "Due date": "End-February 2025",
+          "Status": "Newly proposed SB",
+          "Reform Area": "Business climate"
+        }
+      }
+    }
+  ]
+}
